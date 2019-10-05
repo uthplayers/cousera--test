@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -9,9 +9,9 @@
 	WELCOME TO MY SECOND PAGE THAT CAME FROM MY FIRST PAGE am going to be talking about
 </h1>
 <section><h2>BIOMES</h2>
-<DIV>Biome are region of the world that share a common landsacape,climate animal and vegetation</DIV>
-In some biomes,such as tropical forests and grasslands,there is an abundance of life.<div>This is because the conditions favour a huge variety of species of amphibians and more than 200 species of mammals</div>.<div>scientists etimate that there are more than 100 000 insect species per hectere in the colombian rain forest and more tree species in a single hectare here than there are in the whole of north of north america.</div>
-<DIV>What those these tell you dosent it shows that the kind or amount of life ina are is determined by what kind of biome it is.Desert biome have less life than any kind of biome</DIV>
+<DIV>Biome is a region of the world that share a common landscape, climate animal and vegetation</DIV>
+In some biomes,such as tropical forests and grasslands,there is an abundance of life.<div>This is because the conditions favour a huge variety of species of amphibians and more than 200 species of mammals</div>.<div>scientists estimate that there are more than 100 000 insect species per hectare in the Colombian rain forest and more tree species in a single hectare here than there are in the whole of north America.</div>
+<DIV>What those these tell you doesn't it shows that the kind or amount of life ina are is determined by what kind of biome it is. Desert biome have less life than any kind of biome</DIV>
 <div>THis is a list of all the different type of biome that exists:</div>
 <ul>
 <li>Polar lands</li>
