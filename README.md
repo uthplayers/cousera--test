@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	WELCOME TO MY SECOND PAGE THAT CAME FROM MY FIRST PAGE am going to be talking about
+	WELCOME TO MY PAGE AM GOING TO BE TALKING ABOUT BIOMES AND ALL THE DIFFERENT BIOMES THERE IS
 </h1>
 <section><h2>BIOMES</h2>
 <DIV>Biome is a region of the world that share a common landscape, climate animal and vegetation</DIV>
