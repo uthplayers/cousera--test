@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+<style>
+	h1,h2{text-align: center:}
+	</style
 </head>
 <body>
 <h1>
