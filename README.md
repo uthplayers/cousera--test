@@ -1,11 +1,13 @@
- <!DOCTYPE HTML>
+
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+
+
 </head>
 <body>
 <h1>
-	WELCOME TO MY PAGE AM GOING TO BE TALKING ABOUT BIOMES AND ALL THE DIFFERENT BIOMES THERE IS
+WELCOME TO MY PAGE AM GOING TO BE TALKING ABOUT BIOMES AND ALL THE DIFFERENT BIOMES THERE IS
 </h1>
 <section><h2>BIOMES</h2>
 <DIV>Biome is a region of the world that share a common landscape, climate animal and vegetation</DIV>
@@ -23,7 +25,7 @@ In some biomes,such as tropical forests and grasslands,there is an abundance of 
 <LI>Tropical forests</LI>
 </ul>
 <footer>
-<a href="project.html" title="Internal links">This is a link to the welcome page</a>
+Thks for reading
 </footer>
 </section>
 </body>
